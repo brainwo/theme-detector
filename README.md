@@ -11,7 +11,7 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
-WIP: Theme data for every operating system
+WIP: A cross-platform theme data for Dart and Flutter
 
 ## Features
 

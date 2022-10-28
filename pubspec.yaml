@@ -1,6 +1,7 @@
 name: theme_detector
-description: A starting point for Dart libraries or applications.
+description: A cross-platform theme data for Dart and Flutter
 version: 0.1.0
+license: MIT
 # homepage: https://www.example.com
 
 environment:
